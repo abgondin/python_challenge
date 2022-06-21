@@ -8,7 +8,7 @@ This repository contains two python projects: PyBank and PyPoll. Inside of each 
 
 ## Skills
 
- import modules | read/write files | variables | lists | dictionaries | iterations | debugging | big data
+import modules | read/write files | variables | lists | dictionaries | iterations | conditions | debugging | big data
 
 ## PyBank
 
