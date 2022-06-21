@@ -3,9 +3,8 @@
 ## Background
 
 This repository contains two python projects: PyBank and PyPoll. Inside of each folder, there is:
-1. The main script file called main.py that returns a print of the analysis to the terminal and export a text file with the results.
-2. A "Resources" folder that contains the CSV files you used.
-3. An "Analysis" folder that contains a text file that has the conclusions from the analysis.
+1. An "Analysis" folder that contains the main script filed called main.py that returns a print of the analysis to the terminal and export a text file with the results, which are also in this folder.
+2. A "Resources" folder that contains the CSV files used.
 
 ## Skills
 
@@ -21,6 +20,13 @@ The financial dataset is called budget_data.csv and is composed of two columns: 
 4. The greatest increase in profits (date and amount) over the entire period.
 5. The greatest decrease in losses (date and amount) over the entire period.
 
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Average  Change: $-2315.12
+Greatest Increase in Profits: Feb-2012 ($1926159)
+Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 ## PyPoll
 
@@ -32,5 +38,16 @@ The poll dataset is called election_data.csv and is composed of three columns: V
 4. The total number of votes each candidate won.
 5. The winner of the election based on popular vote.
 
+Election Results
+-------------------------
+Total Votes: 3521001
+-------------------------
+Khan: 63.000% (2218231)
+Correy: 20.000% (704200)
+Li: 14.000% (492940)
+O'Tooley: 3.000% (105630)
+-------------------------
+Winner: Khan
+-------------------------
 
 
