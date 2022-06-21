@@ -20,13 +20,7 @@ The financial dataset is called budget_data.csv and is composed of two columns: 
 4. The greatest increase in profits (date and amount) over the entire period.
 5. The greatest decrease in losses (date and amount) over the entire period.
 
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)
+<img width="870" alt="Screen Shot 2022-06-21 at 1 15 49 pm" src="https://user-images.githubusercontent.com/77761497/174709001-75dc3cf0-4793-4e05-bf22-876b6c5804ac.png">
 
 ## PyPoll
 
@@ -38,16 +32,5 @@ The poll dataset is called election_data.csv and is composed of three columns: V
 4. The total number of votes each candidate won.
 5. The winner of the election based on popular vote.
 
-Election Results
--------------------------
-Total Votes: 3521001
--------------------------
-Khan: 63.000% (2218231)
-Correy: 20.000% (704200)
-Li: 14.000% (492940)
-O'Tooley: 3.000% (105630)
--------------------------
-Winner: Khan
--------------------------
-
+<img width="869" alt="Screen Shot 2022-06-21 at 1 16 04 pm" src="https://user-images.githubusercontent.com/77761497/174709074-01c76712-6c21-4a21-bbb4-dc7b744b8c4a.png">
 
