@@ -1,11 +1,13 @@
-# 03 Python 
+# 03 Python - PyBank & PyPoll
+
+## Background
 
 This repository contains two python projects: PyBank and PyPoll. Inside of each folder, there is:
 1. The main script file called main.py that returns a print of the analysis to the terminal and export a text file with the results.
 2. A "Resources" folder that contains the CSV files you used.
 3. An "Analysis" folder that contains a text file that has the conclusions from the analysis.
 
-# Skills
+## Skills
 
  import modules | read/write files | variables | lists | dictionaries | iterations | debugging | big data
 
